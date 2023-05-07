@@ -7,3 +7,4 @@ Kodhi yekumberi yewebhusaiti ndeye yakavhurika sosi, tinokugamuchirai kuti mubat
 * [kumberi-kuguma kodhi](https://github.com/xxai-art/web)
 * [Mutauro mapaketi esaiti yakazara](https://github.com/xxai-art/web/tree/main/i18n)
 * [Mutauro mapaketi ekupinda mamodule](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Webhusaiti Multilingual Documentation](https://github.com/xxai-doc)
